@@ -1,0 +1,21 @@
+title: アプリタイトル # トップページのタイトルです。
+description: 簡単に PWA の地図アプリが開発できるテンプレートです。 # descriptionタグとサブタイトルです。
+background_image: ./background.jpg
+logo_image: https://raw.githubusercontent.com/geolonia/logo/master/svg/symbol.svg
+menus: # メニューは4個まで追加できます。
+  - menu:
+    title: メニュー1
+    url: /
+    icon: fas fa-home
+  - menu:
+    title: メニュー2
+    url: /
+    icon: fas fa-user
+  - menu:
+    title: メニュー3
+    url: /
+    icon: fas fa-list
+  - menu:
+    title: メニュー4
+    url: /
+    icon: fas fa-cog
